@@ -1,4 +1,4 @@
-# hospitalautomation
+# Hospital Automation
 I am happy to share my hospital automation project that I developed using Java and MySQL. Swing and JCalendar libraries were used on the Java side, and MariaDB was preferred for the database. Functions of adding and deleting polyclinics, adding and deleting doctors, assigning doctors to polyclinics for the head physician after the registration-login screen for the patient and the doctor (head physician and doctors log in from the same page), appointment time creation function for doctors; for patients, there are functions to make appointments and view active appointments.
 
 <p align="center">
